@@ -1,5 +1,5 @@
 ---
-title: "Upgrade to Babel 7"
+title: "говно"
 id: v7-migration
 ---
 
